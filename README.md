@@ -13,14 +13,14 @@ Nascimento: 13/12/2003
 3. No canto superior esquerdo é possível observar a opção "Arquivo" ou "File"
 4. Após clicar nesta opção, selecione "Abrir" ou "Open"
 
-    ![imagem1](https://github.com/crisTparm/desafiocapgemini/blob/main/unknown.png)
+    ![imagem1](https://github.com/crisTparm/imagens/blob/main/imagem1.png)
 
 5. Selecione os 3 arquivos salvos em seu computador e execute
 
 ## Execução dos arquivos no programa
   Para a execução dos arquivos, clique na opção "Executar com Timer".
  
-   ![imagem2](https://github.com/crisTparm/desafiocapgemini/blob/main/Design%20sem%20nome.png)
+   ![imagem2](https://github.com/crisTparm/imagens/blob/main/imagem2.png)
   
   Tendo em mente as questões, basta testar o algoritmo digitando no console do aplicativo
 
