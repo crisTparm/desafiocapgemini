@@ -1,10 +1,9 @@
 # Desafio de programação Capgemini
 
-Nome: Cristiano Gonçalves Parmanhani <br>
-Nascimento: 13/12/2003
-
 ## Sobre os arquivos
   Os arquivos foram programados pelo programa Visualg 3.0 e estão com a extensão (.ALG).
+<br>
+<br>
 
 ## Abrir os arquivos
   Para abrir os arquivos é muito simples. Basta seguir os passos abaixo:
@@ -16,6 +15,7 @@ Nascimento: 13/12/2003
     ![imagem1](https://github.com/crisTparm/imagens/blob/main/imagem1.png)
 
 5. Selecione os 3 arquivos salvos em seu computador e execute
+<br>
 
 ## Execução dos arquivos no programa
   Para a execução dos arquivos, clique na opção "Executar com Timer".
