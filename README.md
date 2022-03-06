@@ -24,4 +24,4 @@ Nascimento: 13/12/2003
   
   Tendo em mente as questões, basta testar o algoritmo digitando no console do aplicativo
 
-   ![imagem3](https://github.com/crisTparm/desafiocapgemini/blob/main/imagem_2022-03-06_002429.png)
+   ![imagem3](https://github.com/crisTparm/imagens/blob/main/imagem3.png)
